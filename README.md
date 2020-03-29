@@ -1,7 +1,5 @@
 ﻿A dive into the young people survey. Do you remember?
 
 Research Goals:
-- Defening factors of rural and urban lifestyle.
-- Factors lowering or increasing the risk of taking up unhealthy habits such as smoking or drinking.
-- Ways to cluster the high-dimensional data to unveil connections between different attributes and possibly predicting the social clustering of such a population.
-- Look at what influences saving habits and how money affects the (perceived) life-quality.
+We want to investigate important factors in the lives of young people, which are demographically close to the student population of maastricht university. With help of this analysis and visualizations we want to help in guiding ways how students' happiness could be improved.
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=ypJ4IqxFY74)
